@@ -12,14 +12,14 @@ If the answer is incorrect the player loses 1 of 3 lives.
 If the number of lives run out, the game is over. 
 The goal is to reach the next difficulty by beating the score.
 
-### Images
-
 ### Getting Started
 
 #### Prerequisites
+* MacOS and Xcode, or alternative software
 
 #### Installation
+* Clone / Download project
 
 #### How to use
-
-### Lisence
+1. Open file "LetterQuiz.xcworkspace" in Xcode
+2. Run Build in simulator or deploy to device
