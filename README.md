@@ -8,6 +8,12 @@
 
 ### Images
 
-### How to Use
+### Getting Started
+
+#### Prerequisites
+
+#### Installation
+
+#### How to use
 
 ### Lisence
