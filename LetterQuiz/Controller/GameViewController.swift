@@ -343,26 +343,7 @@ class GameViewController: UIViewController, GADRewardBasedVideoAdDelegate {
         }
         
         
-   /*
-        let letterIndex = findItemIndexInArray(item: randomLetter, array: alphabet)
-        
-        let startIndex = letterIndex - numberOfSteps
-        let endIndex = letterIndex + numberOfSteps
-        
-        var elementsInRange = getElementsInRangeFromList(array: alphabet, rangeStart: startIndex, rangeEnd: endIndex)
-        
-        //Hvis elementsInRange er mindre enn 3 svaralternativer, så må vi hente en random.. dette må skje i løkke.
-        if elementsInRange.count < 3 {
-            
-            
-        } else {
-            
-            answerAlternatives.append(contentsOf: elementsInRange)
-            
-        }
-        
-        //Videre bruker du elementsInRange til å hente ut random elementer fra, og plassere i svaralternativer.
-    */
+
         
         //Insert correct answer at random index.
         let index = Int(arc4random_uniform(UInt32(answerAlternatives.count + 1)))
