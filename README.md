@@ -1,8 +1,8 @@
 # LetterQuiz
 
 * Author: Martin Bruland
-* Created:
-* Version:
+* Created: April 2019
+* Written in: Swift
 
 ## Description
 
